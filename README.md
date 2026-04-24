@@ -1,7 +1,4 @@
 # AI-Powered Network Intrusion Detection & Incident Reporting
-
-![Project Banner](project_banner_1777037101654.png)
-
 ##  Overview
 This project is a cutting-edge **Network Intrusion Detection System (NIDS)** that leverages Machine Learning and Natural Language Processing to detect, visualize, and report network threats in real-time. By combining the high-performance classification of **XGBoost** with the generative power of **Hugging Face Transformers**, it not only identifies attacks but also provides human-readable incident summaries.
 
